@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    
+    text-align: center;
+    background-color: rgb(165, 200, 247);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5rem;
+}
+h1 {
+    color: black;
+}
+h2 {
+    color: black;
+}
+h3 {
+    color: black;
+}
+.top-container {
+    position: relative;
+    padding-top: 10%;
+    background-color: rgb(89, 152, 234);
+    margin-top: 0%;
+}
+.name {
+    position: relative;
+}
+
+.mountain {
+    width: 30%;
+    height: 30%;
+}
+.cloud-1 {
+    width: 20%;
+    height: 10%;
+    position: absolute;
+    left: 15%;
+}
+
+.cloud-2 {
+    width: 20%;
+    height: 10%;
+    position: absolute;
+    right: 15%;
+    top: 18%;
+}
+
+
+
+.profile-container {
+    position: relative;
+    margin: auto 30% auto 30%;
+}
+.profile-pic {
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+}
+
+.skill-container {
+    text-align: left;
+    margin: 10% 20% 10% 20%;
+}
+.Title {
+    text-align: center;
+}
+
+.coding {
+    margin-right: 10%;
+    float: left;
+    width: 8em;
+    height: 8em;
+}
+.games {
+    float: right;
+    width: 8em;
+    height: 8em;
+}
+.skill-1 {
+    margin: auto auto 20% auto;
+}
+
+.hr {
+    
+    border-style: dotted;
+    border-top: 0px;
+    border-width: 10px;
+    margin: 100px 46% 100px 46%; 
+}
+
+.contact-button {
+    font-size: 60%;
+    color: aliceblue;
+    background-color: rgb(0, 89, 89);
+    height: 40px;
+    width: 10%;
+    border-radius: 10%;
+}
+
+.bottom { 
+    font-size: 20px;
+    position: relative;
+    margin: 60px 0px 0px 0px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color:  rgb(89, 152, 234);
+    
+}
